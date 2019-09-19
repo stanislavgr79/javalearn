@@ -12,5 +12,7 @@ class Person {
     @NotNull
     String name;
     int age;
+    /// jnhfvj
+    int x;
 }
 

@@ -1,0 +1,4 @@
+CREATE TABLE Person (id INT PRIMARY KEY AUTO_INCREMENT, name VARCHAR(20), age INT);
+INSERT INTO Person (name,age) VALUE ('Max',22);
+INSERT INTO Person (name,age) VALUE ('Mike',32);
+INSERT INTO Person (name,age) VALUE ('Sara',23);
